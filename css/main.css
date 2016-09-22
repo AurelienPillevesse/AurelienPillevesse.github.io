@@ -130,3 +130,6 @@
     list-style: none;
     padding: 0;
 }
+.social li {
+    display: inline;
+}
