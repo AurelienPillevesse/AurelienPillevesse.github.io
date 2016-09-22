@@ -124,4 +124,9 @@
 }
 
 #content {
+    text-align: center;
+}
+#content ul {
+    list-style: none;
+    padding: 0;
 }
