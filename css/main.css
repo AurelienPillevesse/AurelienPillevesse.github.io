@@ -123,9 +123,13 @@
     transition: all 0.3s 1s ease-out;  /* Chrome 26, Firefox 16+, iOS 7+, IE 10+, Opera, Safari 6.1+  */
 }
 
+body {
+}
+
 #content {
     text-align: center;
 }
+
 #content ul {
     list-style: none;
     padding: 0;
@@ -133,3 +137,4 @@
 .social li {
     display: inline;
 }
+
