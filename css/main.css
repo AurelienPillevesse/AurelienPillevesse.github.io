@@ -124,7 +124,19 @@
 }
 
 body {
-    background: #e7e7e7 url(../img/background.png) 0 0 repeat;
+    background-color: #f0f0f0;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.5;
+    font-weight: 500;
+    color: #405660;
+}
+
+h1 {
+    color: #474747;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 3rem;
+    line-height: 3.5rem;
 }
 
 #content {
