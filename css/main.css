@@ -147,8 +147,18 @@ h1 {
     list-style: none;
     padding: 0;
 }
+
+.social {
+    font-family: 'Montserrat';
+}
+
 .social li {
     display: inline;
+    margin: 6px;
+}
+
+.social li a:hover, a:visited, a:focus, a:active, a:link {
+    color: black;
 }
 
 .me {
