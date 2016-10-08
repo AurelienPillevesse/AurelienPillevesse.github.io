@@ -132,9 +132,9 @@ body {
 }
 
 h1 {
-    color: #474747;
+    font-family: 'Chivo';
+    color: #d5000d;
     font-weight: bold;
-    text-decoration: underline;
     font-size: 3rem;
     line-height: 3.5rem;
 }
